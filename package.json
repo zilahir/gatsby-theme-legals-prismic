@@ -1,12 +1,12 @@
 {
-  "name": "@littleplusbig/gatsby-theme-legals-prismic",
-  "author": "Allan Pooley",
+  "name": "@zilahir/gatsby-theme-legals-prismic",
+  "author": "Richard Zilahi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/littleplusbig/gatsby-theme-legals-prismic"
+    "url": "https://github.com/zilahir/gatsby-theme-legals-prismic"
   },
   "bugs": {
-    "url": "https://github.com/littleplusbig/gatsby-theme-legals-prismic/issues"
+    "url": "https://github.com/zilahir/gatsby-theme-legals-prismic/issues"
   },
   "keywords": [
     "gatsby",
@@ -17,7 +17,7 @@
     "privacy policy",
     "legal"
   ],
-  "version": "1.0.12",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
@@ -40,7 +40,7 @@
     "@emotion/styled": "^10.0.14",
     "@mdx-js/react": "^1.0.27",
     "gatsby-plugin-theme-ui": "^0.2.25",
-    "gatsby-source-prismic": "^2.3.0-alpha.3",
+    "@zilahir/gatsby-source-prismic": "^2.3.0-alpha.3",
     "react-helmet": "^5.2.1",
     "react-intersection-observer": "^8.24.1",
     "styled-components": "^4.3.2",
